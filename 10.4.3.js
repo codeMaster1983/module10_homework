@@ -1,3 +1,3 @@
-str = prompt('Введи слово')
-reverseStr = str.split('').reverse().join('')
+let str = prompt('Введи слово')
+let reverseStr = str.split('').reverse().join('')
 console.log(reverseStr)
